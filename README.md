@@ -6,7 +6,7 @@
 
 #### 第一期
 
-[导言（The MagPi）](https://github.com/djyde/MagPi/blob/master/issue1/导言)
+[导言（The MagPi）](https://github.com/djyde/MagPi/blob/master/Issue1/%E5%AF%BC%E8%A8%80.md)
 
 努力翻译中。。。。
 ##期待你的加入
